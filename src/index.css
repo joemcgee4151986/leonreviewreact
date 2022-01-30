@@ -1,0 +1,70 @@
+h1{
+    font-style: italic;
+    color: white;
+    justify-content: center;
+   text-align: center;
+
+}
+h4{
+    
+    color:white;
+    flex: left;
+   
+   Padding-left: 205px;
+    text-align: center;
+}
+
+body{
+    background: #87cdea;
+    text-align: center;
+    border:solid #59cc6c 5px ;
+   max-width: 600px;
+   display: block;
+   margin: auto;
+   
+}
+.column{
+   max-width: 1000px;
+   margin: 0, auto;
+   border-width: 10px;
+   width: 500px;
+   margin: 20px auto;
+   padding: 50px;
+    color:white;
+    font-family: sans-serif;
+    
+}
+
+
+a {
+   color: #55ccb3;
+   Padding-right: 205px;
+}
+joe.black{
+    color:#80898c;
+}
+.leon{
+    width: 180px;
+    float:right;
+    margin-right: 5%;
+    overflow: auto;
+}
+li{
+    list-style: none;
+    text-align: center;
+    float:left;
+    display: block;
+    word-spacing: 5px;
+    font-size: 15px;
+    text-decoration: underline;
+   
+}
+ul{
+    text-align: center;
+    float: right;
+    margin-right: 35%;
+    word-spacing: 15px;
+   font-weight: bold;
+   color: #55ccb3;
+   text-decoration: underline;
+}

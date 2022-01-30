@@ -1,0 +1,93 @@
+h1{
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    color: white;
+    
+ 
+
+}
+h4{
+   
+    padding: 15px;
+    right: 50px;
+    color:white;
+    flex: left;
+   
+    padding: 10px;
+    
+}
+
+body{
+    background: #87cdea;
+    background-size: 105%;
+    text-align: center;
+    border-style:solid #59cc6c 5px ;
+    height: 550px;
+   max-width: 600px;
+
+  
+   
+}
+
+text{
+    position: relative;
+    list-style: none;
+    display: flex;
+     color:white;
+     font-family: sans-serif;
+     
+ }
+ 
+ p{
+     width:100%;
+     text-align: center;
+   display: flex;
+    list-style: none;
+    
+     color:white;
+     font-family: sans-serif;
+     
+ }
+ 
+
+
+a {
+   color: #55ccb3;
+   Padding-right: 155px;
+}
+joe.black{
+    color:#80898c;
+}
+joe.green{
+    color:   #55ccb3;
+}
+.leon{
+    position: relative;
+    top: -70px;
+    width: 150px;
+    float:right;
+    margin-right: 5%;
+    overflow: auto;
+   
+}
+li{
+    position: relative;
+    list-style: none;
+    text-align: center;
+    float:left;
+    display: block;
+    word-spacing: 5px;
+    font-size: 15px;
+    text-decoration: underline;
+   
+}
+ul{
+    text-align: center;
+    float: right;
+    margin-right: 35%;
+    word-spacing: 15px;
+   font-weight: bold;
+   color: #55ccb3;
+   text-decoration: underline;
+}
