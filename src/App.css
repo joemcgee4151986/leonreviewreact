@@ -95,9 +95,29 @@ ul{
    color: #55ccb3;
    text-decoration: underline;
 }
-@media only screen and (max-width: 768px) {
+@media screen and (max-device-width: 480px) {
     body {
       background-color: #87cdea;
-      width: 100%;
+    
+      border-style: none;
+    }
+    .leon{
+        top: -70px;
+    width: 80px;
     }
   }
+
+  @media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+
+    body {
+        background-color: #87cdea;
+      
+        border-style: none;
+      }
+    .leon{
+        top: -70px;
+    width: 50px;
+    }
+}
+
+
